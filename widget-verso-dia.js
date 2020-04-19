@@ -1,0 +1,2 @@
+var widget=new WidgetGP();function WidgetGP(){this.theShow=function(){document.write('<iframe width="100%" scrolling="no" height="500" frameborder="0" src="https://www.bibliatodo.com/es/online/versiculo-del-dia"></iframe>');}}
+widget.theShow();document.getElementById('gp_0').style.visibility='hidden';
